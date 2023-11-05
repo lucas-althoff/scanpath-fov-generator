@@ -10,12 +10,19 @@ In this repository you find three approaches to visualize NFOV from original Equ
 - Tested: No
 - Running: Yes
 
+## Running this approach
+> Work in progress
+
 ## Rendering FoV from a scanpath from spherical coordinates
 - Code: `scanpath_projection.py`
 - Data: `\data`
 - Tested: Yes
 - Running: Yes
-   
+
+## Running this approach
+1. Install dependencies: `$ pip install -r requirements.txt`
+2. Running the code: `$ python scanpath_projection.py`
+
 ## Rendering FoV from scanpath from latitude longitude coordinates
 - Code: `fov_plot_lat_lon.py`
 - Data: No data
@@ -23,7 +30,10 @@ In this repository you find three approaches to visualize NFOV from original Equ
 - Running: No
 - Reference: https://github.com/vsitzmann/vr-saliency/blob/master/src/Analysis.ipynb
 
-> Reference projects: 
+## Running this approach
+> Work in progress
+
+## Reference projects: 
 
 * [Director`s Cut - V-sense]()
   * [Dataset](https://drive.google.com/drive/folders/1QhUGA07pAxW2CCOmj8GHMEoIErPocbXk)

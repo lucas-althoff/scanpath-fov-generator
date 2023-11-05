@@ -262,7 +262,7 @@ if __name__ == '__main__':
     import os
     size_equi = (1000,500)
     size_pers = (500,250)
-    project_path = os.getcwd() + r'\asymptotic_IQA' 
+    project_path = os.getcwd()
     img_paths = [project_path + r'\data\img83.jpg', project_path + r'\data\img100.png']
     dict_path = project_path + r'\microtest1\sp_test.json'
     #sc_len = 
